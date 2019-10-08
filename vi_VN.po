@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2019-10-07 14:54+0700\n"
+"PO-Revision-Date: 2019-10-08 09:56+0700\n"
 "Language-Team: Electro POT <support@transvelo.com>\n"
 "X-Generator: Poedit 2.2.4\n"
 "Last-Translator: \n"
@@ -953,7 +953,7 @@ msgstr ""
 #: inc/template-tags/homepages/home-v7.php:89
 #: inc/template-tags/homepages/home-v7.php:96
 msgid "Shop now"
-msgstr ""
+msgstr "Mua ngay"
 
 #: inc/admin/meta-boxes/class-electro-meta-box-home-mobile-v1.php:227
 #: inc/admin/meta-boxes/class-electro-meta-box-home-mobile-v1.php:269
@@ -3294,7 +3294,7 @@ msgstr ""
 
 #: inc/classes/class-electro-breadcrumb.php:261
 msgid "Search results for &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Kết quả tìm kiếm cho &ldquo;%s&rdquo;"
 
 #: inc/classes/class-electro-breadcrumb.php:270
 msgid "Page %d"
@@ -4258,7 +4258,7 @@ msgstr ""
 #: inc/redux-framework/functions/header-functions.php:236
 #: inc/structure/navbar.php:41 inc/template-tags/headers/header-v1.php:31
 msgid "Shop by Department"
-msgstr ""
+msgstr "Tìm theo danh mục"
 
 #: inc/redux-framework/functions/header-functions.php:260
 #: inc/redux-framework/options/header-options.php:166
@@ -5363,7 +5363,7 @@ msgstr ""
 
 #: inc/structure/footer.php:113
 msgid "Enter your email address"
-msgstr ""
+msgstr "Email của bạn"
 
 #: inc/structure/footer.php:115
 msgid "Sign Up"
@@ -5476,7 +5476,7 @@ msgstr ""
 
 #: inc/structure/post.php:335
 msgid "Read More"
-msgstr ""
+msgstr "Đọc thêm"
 
 #: inc/structure/post.php:662
 msgid "Blog Navigation"
@@ -5867,11 +5867,11 @@ msgstr ""
 
 #: inc/widgets/class-electro-product-catgories-widget.php:82
 msgid "Show All Categories"
-msgstr ""
+msgstr "Tất cả danh mục"
 
 #: inc/widgets/class-electro-product-catgories-widget.php:135
 msgid "Browse Categories"
-msgstr ""
+msgstr "Danh mục sản phẩm"
 
 #: inc/widgets/class-electro-product-catgories-widget.php:143
 msgid "No product categories exist."
@@ -5895,7 +5895,7 @@ msgstr ""
 
 #: inc/widgets/class-electro-product-filter-widget.php:61
 msgid "+ Show more"
-msgstr ""
+msgstr "+ Hiển thị thêm"
 
 #: inc/widgets/class-electro-product-filter-widget.php:62
 msgid "- Show less"
@@ -6377,7 +6377,7 @@ msgstr ""
 
 #: inc/woocommerce/template-tags.php:985
 msgid "Availability:"
-msgstr "Trong kho"
+msgstr "Có sẵn: "
 
 #: inc/woocommerce/template-tags.php:1062
 msgid "Your comment is awaiting approval"
@@ -6551,7 +6551,7 @@ msgstr ""
 
 #: templates/shop/single-product-advanced-reviews.php:84
 msgid "Your Rating"
-msgstr "Điểm"
+msgstr "Điểm đánh giá"
 
 #: templates/shop/single-product-advanced-reviews.php:85
 msgid "Rate&hellip;"
