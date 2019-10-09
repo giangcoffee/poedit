@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2019-10-08 09:56+0700\n"
+"PO-Revision-Date: 2019-10-09 08:52+0700\n"
 "Language-Team: Electro POT <support@transvelo.com>\n"
 "X-Generator: Poedit 2.2.4\n"
 "Last-Translator: \n"
@@ -6523,7 +6523,7 @@ msgstr[0] "Dựa trên %s đánh giá"
 
 #: templates/shop/single-product-advanced-reviews.php:28
 msgid "%s overall"
-msgstr ""
+msgstr "%s trung bình"
 
 #: templates/shop/single-product-advanced-reviews.php:64
 msgid "Add a review"
@@ -6531,7 +6531,7 @@ msgstr "Đánh giá"
 
 #: templates/shop/single-product-advanced-reviews.php:64
 msgid "Be the first to review &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Hãy là người đầu tiên đánh giá &ldquo;%s&rdquo;"
 
 #: templates/shop/single-product-advanced-reviews.php:65
 msgid "Leave a Reply to %s"
@@ -6551,7 +6551,7 @@ msgstr ""
 
 #: templates/shop/single-product-advanced-reviews.php:84
 msgid "Your Rating"
-msgstr "Điểm đánh giá"
+msgstr "Đánh giá"
 
 #: templates/shop/single-product-advanced-reviews.php:85
 msgid "Rate&hellip;"
@@ -6579,7 +6579,7 @@ msgstr ""
 
 #: templates/shop/single-product-advanced-reviews.php:94
 msgid "Your Review"
-msgstr "Đánh giá của bạn"
+msgstr "Ghi chú"
 
 #: templates/shop/single-product-advanced-reviews.php:103
 msgid ""
